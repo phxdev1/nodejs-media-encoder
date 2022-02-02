@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/phxdev1/nodejs-media-encoder#readme",
   "dependencies": {
+    "chokidar": "^3.5.3",
     "express": "^4.17.2",
+    "multer": "^1.4.4",
     "nodemon": "^2.0.15"
   }
 }
